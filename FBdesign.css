@@ -1,0 +1,145 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	-webkit-box-pack: center;
+	background: #dfe3ee ;
+	
+}
+#top{
+	width: 1500px;
+	height: 43px;
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	-webkit-box-flex: 1;
+	background : #3b5998;
+	display: -webkit-flex; 
+    display: flex;
+
+	
+}
+#top img{
+	height :36px;
+	padding: 3px 60px;
+
+	}
+#dp{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	display: -webkit-flex; 
+    display: flex;
+	
+}
+#dp img{
+	height :24px;
+	padding: 10px 0px;
+}
+#dp h5{
+	font-family: Tahoma;
+	padding : 12px;
+	float: right;
+	color: white;
+}
+#top  input{
+	float: none;
+	height: 30px;
+	width: 391px;
+	padding : 0px 0px;
+	
+}
+#top button{
+	height : 30px;
+	width : 40px;
+	background-image : url("") ;
+}
+#space {
+	padding: 0px 145px;
+}
+#body{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	
+	
+}
+#left{
+	height: 500px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	padding : 10px 120px;
+	
+}
+#sect{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	
+}
+#post{
+	 border: 10px solid #dfe3ee;
+	width: 500px;
+	height: 130px;
+	background-color : #ffffff;
+}
+#post1{
+	border: 10px solid #dfe3ee;
+	width: 500px;
+	height: 500px;
+	background-color : #ffffff;
+	
+}
+#posthead{
+	border-bottom : 1px solid 	#f7f7f7;
+	width: 500px;
+	height: 30px;
+	background-color : #f7f7f7;
+	
+}
+#postbody{
+	border-bottom-width:400px;
+	border-bottom : 2px solid 	#f7f7f7;
+	width: 500px;
+	height: 70px;
+	background-color :white;
+	
+}
+
+#postfoot{
+	
+	
+}
+#right{
+	height: 500px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	
+}
+#info{
+	 border: 10px solid #dfe3ee;
+	width: 300px;
+	height: 80px;
+	background-color : #ffffff;
+	
+}
+#trend{
+	 border: 10px solid #dfe3ee;
+	width: 300px;
+	height: 80px;
+	background-color : #ffffff;
+	
+}
+#know{
+	 border: 10px solid #dfe3ee;
+	width: 300px;
+	height: 80px;
+	background-color : #ffffff;
+	
+}
+#suggest{
+	 border: 10px solid #dfe3ee;
+	width: 300px;
+	height: 80px;
+	background-color : #ffffff;
+	
+}
+
