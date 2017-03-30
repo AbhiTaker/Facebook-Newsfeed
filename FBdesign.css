@@ -25,6 +25,16 @@ body
 	padding: 3px 60px;
 
 	}
+#search{
+	width:500px;
+	height:26px;
+	background:white;
+	padding:10px 10px;
+	outline:none;
+	border-radius: 2px/10px;
+	background-position:456px;
+	background-repeat:no-repeat;
+}
 #dp{
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
@@ -34,7 +44,7 @@ body
 }
 #dp img{
 	height :24px;
-	padding: 10px 0px;
+	padding: 10px 2px;
 }
 #dp h5{
 	font-family: Tahoma;
@@ -55,7 +65,11 @@ body
 	background-image : url("") ;
 }
 #space {
-	padding: 0px 145px;
+	padding-left: 145px;
+}
+#space1{
+	padding-left: 40px;
+	border-left :  2px abc black;
 }
 #body{
 	display: -webkit-box;
@@ -71,11 +85,12 @@ body
 	
 }
 #side{
-  border: 2px solid #dfe3ee;
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+
     width: 100px;
 	height: 20px;
-	padding : 2px;
-	background-color : #ffffff;
+	padding : 4px 4px ;
 	
 }
 #sect{
@@ -159,5 +174,10 @@ body
 	background-color : #ffffff;
 	
 }
+#left img{
+	height :22px;
+	
+}
+
 
 
