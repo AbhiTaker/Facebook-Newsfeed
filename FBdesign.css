@@ -181,7 +181,7 @@ img {
 	
 }
 
-#postfoot{
+#postfooter{
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
 	
@@ -211,13 +211,13 @@ img {
 	padding-top :8px;
 }
 
-#post1foot {
+#post1footer {
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
 	border-top :  1px dotted #88898c;
 	
 }
-#post1foot p{
+#post1footer p{
 	padding-left :5px;
 	padding-right:20px;
 	font-family : Tahoma;
