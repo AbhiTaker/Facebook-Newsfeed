@@ -8,7 +8,14 @@ body
 	background: #dfe3ee ;
 	
 }
-#top{
+h6{
+	padding-left:50px;
+}
+img {
+	height : 27px;
+}
+
+#topbar{
 	width: 1350px;
 	height: 43px;
 	display: -webkit-box;
@@ -20,7 +27,7 @@ body
 
 	
 }
-#top img{
+#topbar img{
 	height :36px;
 	padding: 3px 60px;
 	border-radius: 10px/10px;
@@ -36,37 +43,37 @@ body
 	background-position:456px;
 	background-repeat:no-repeat;
 }
-#dp{
+#shortcuts{
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
 	display: -webkit-flex; 
     display: flex;
 	
 }
-#dp img{
+#shortcuts img{
 	height :24px;
 	padding: 10px 2px;
 	border-radius: 20px/10px;
 	background-position:456px;
 	background-repeat:no-repeat;
 }
-#dp h5{
+#shortcuts h5{
 	font-family: Tahoma;
 	padding : 12px;
 	float: right;
 	color: white;
 }
-#top  input{
+#topbar input{
 	float: none;
 	height: 30px;
 	width: 391px;
 	padding : 0px 0px;
 	
 }
-#top button{
+#topbar button{
 	height : 30px;
 	width : 40px;
-	background-image : url("") ;
+	background-image : url("search.jpg") ;
 }
 #space {
 	padding-left: 145px;
@@ -104,7 +111,7 @@ body
 	color :black;
 	
 }
-#sect{
+#center{
 	display: -webkit-box;
 	-webkit-box-orient: vertical;
 	
@@ -248,8 +255,13 @@ body
 #suggest{
 	 border: 10px solid #dfe3ee;
 	width: 300px;
-	height: 80px;
+	height: 100px;
 	background-color : #ffffff;
+	
+}
+#suggest img{
+	padding : 4px 4px;
+	 height : 60px;
 	
 }
 #left img{
@@ -260,7 +272,7 @@ body
 #side:hover
     {background:#e9f0f2;}
 	
-#right img{
+#info img{
 	height :24px;
 	padding: 10px 2px;
 	
@@ -277,7 +289,7 @@ body
 	color : #3b5998;
 }
 
-#supright{
+#extra{
 	border-left : 1px solid grey;
 }
 
@@ -305,11 +317,11 @@ li{
 	color: #acadaf;
  }
  
- #top1{
+ #section1{
 	 width :200px;
 	 height : 200px;
  }
- #top2{
+ #section2{
 	 border-top : 1px dashed black;
 	 display: -webkit-box;
 	-webkit-box-orient: vertical;
@@ -332,11 +344,6 @@ li{
 	padding-top : 5px;
 	padding-bottom :5px;
 }
-h6{
-	padding-left:50px;
-}
-img {
-	height : 27px;
-}
+
 
 
